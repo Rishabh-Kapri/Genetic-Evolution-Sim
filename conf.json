@@ -1,0 +1,10 @@
+{
+  "SizeX": 128,
+  "SizeY": 128,
+  "MinGenomeLength": 2,
+  "MaxGenomeLength": 3,
+  "Sensor": 1,
+  "Action": 1,
+  "Neuron": 0,
+  "Population": 10
+}
